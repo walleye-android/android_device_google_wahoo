@@ -607,3 +607,5 @@ PRODUCT_DEXPREOPT_SPEED_APPS += \
 # audio effects config
 PRODUCT_PROPERTY_OVERRIDES += \
     fmas.hdph_sgain=0
+
+-include device/google/wahoo/device-omni.mk
